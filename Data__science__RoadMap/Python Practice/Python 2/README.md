@@ -18,7 +18,7 @@ The tutorial consists of 32 main scripts, 5 more additional scripts required in 
 
 ### Main scripts
 
-1. [Hello World](./Code/Code/01_-_hello_world.py)
+1. [Hello World](./Code/01_-_hello_world.py)
 2. [Drawing a Shape](./Code/02_-_drawing_a_shape.py)
 3. [Variables and Data Types](./Code/03_-_variables_and_data_types.py)
 4. [Working with Strings](./Code/04_-_working_with_strings.py)
